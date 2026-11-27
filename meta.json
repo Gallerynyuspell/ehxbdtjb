@@ -1,0 +1,25 @@
+{
+  "repo": "rpg-maker-2026-setup",
+  "product": "RPG Maker 2026 Setup",
+  "product_title": "RPG Maker 2026 Setup",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "rpg-maker",
+    "rpg-app",
+    "rpg-2026",
+    "rpg-maker-app",
+    "desktop-utility",
+    "windows-tools",
+    "how-to-install-rpg",
+    "how-to-setup-rpg",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
